@@ -1,22 +1,23 @@
 {
-    id: 1,
-    imgUrl: 'assets/img/alienware4.png',
-    name: 'Alienware m15',
-    category: 'Gaming',
-    price: '999.99'
+    {
+    "id": "1",
+    "imgUrl": 'assets/img/alienware4.png',
+    "name": 'Alienware m15',
+    "category": 'Gaming',
+    "price": '999.99'
   },
   {
-    id: 2,
-    imgUrl: 'assets/img/alienware3.png',
-    name: 'Alienware R4',
-    category: 'Gaming',
-    price: '1399.89'
+    "id": "2",
+    "imgUrl": 'assets/img/alienware3.png',
+    "name": 'Alienware R4',
+    "category": 'Gaming',
+    "price": '1399.89'
   },
   {
-    id: 3,
-    imgUrl: 'assets/img/alienware2.png',
-    name: 'Alienware 17',
-    category: 'Gaming',
-    price: '1299.89'
+    "id": "3",
+    "imgUrl": 'assets/img/alienware2.png',
+    "name": 'Alienware 17',
+    "category": 'Gaming',
+    "price": '1299.89'
   },
 }
