@@ -20,6 +20,34 @@
             "name": "Alienware 17",
             "category": "Gaming",
             "price": "1299.89"
+        },
+        {
+            "id": "4",
+            "imgUrl": "assets/img/alienware4.png",
+            "name": "Alienware Special",
+            "category": "Laptop",
+            "price": "599.99"
+        },
+        {
+            "id": "5",
+            "imgUrl": "assets/img/alienware5.png",
+            "name": "Alienware 2021",
+            "category": "Laptop",
+            "price": "1799.89"
+        },
+        {
+            "id": "6",
+            "imgUrl": "assets/img/alienware6.png",
+            "name": "Alienware Desktop",
+            "category": "Desktop",
+            "price": "1899.89"
+        },
+        {
+            "id": "7",
+            "imgUrl": "assets/img/alienware7.png",
+            "name": "Alienware Kit",
+            "category": "Desktop",
+            "price": "899.89"
         }
     ]
 }
